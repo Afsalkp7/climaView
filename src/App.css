@@ -1,0 +1,13 @@
+/* src/BackgroundWindow.css */
+.bg-window {
+  background-image: url('https://ideogram.ai/assets/image/lossless/response/BuP0wMtvTIiXcbEDHFHo9g');
+  background-size: cover;
+  background-position: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.bg-content {
+  background-color: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(10px);
+}
